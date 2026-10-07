@@ -311,3 +311,9 @@ This earlier draft uses Thomson's boxes. It is more emotional than the Strategyz
 | **Experience** | "I helped bring back something that was lost," pride, curiosity, safe closeness with family |
 
 The Substitutes box shows what the game must beat: the existing ways these families already learn about Korea. The differentiators are a low barrier, an embodied and playful experience, and a design built for very young children.
+
+## Interview guide
+
+- [Interview guide (English)](interview-guide/interview-guide.en.md)
+- [인터뷰 가이드 (한국어)](interview-guide/interview-guide.ko.md)
+- Printable cards: [kids](interview-guide/cards/kids.pdf), [parents](interview-guide/cards/parents.pdf), [timeline](interview-guide/cards/timeline.pdf)
