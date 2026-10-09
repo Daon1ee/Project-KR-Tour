@@ -316,4 +316,4 @@ The Substitutes box shows what the game must beat: the existing ways these famil
 
 - [Interview guide (English)](interview-guide/interview-guide.en.md)
 - [인터뷰 가이드 (한국어)](interview-guide/interview-guide.ko.md)
-- Printable cards: [kids](interview-guide/cards/kids.pdf), [parents](interview-guide/cards/parents.pdf), [timeline](interview-guide/cards/timeline.pdf)
+- Printable cards: [kids](interview-guide/cards/kids.pdf), [parents](interview-guide/cards/parents.pdf), [timeline](interview-guide/cards/timeline.pdf), [adult method cards](interview-guide/cards/adult_cards.pdf), [adult response sheet](interview-guide/cards/adult_sheet.pdf)

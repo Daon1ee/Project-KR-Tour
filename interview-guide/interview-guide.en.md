@@ -244,6 +244,148 @@ Do not announce it. Bring it up in passing during an ordinary visit. Play with t
 | "What did that friend ask you to help with?" | Task memory (Hypothesis 3) |
 | "Do you want to play again?" | Real interest rather than politeness, and how excited they are |
 
+## Third-party interview guide (native Koreans, second-generation Korean Americans, general adults)
+
+This guide collects an outside view from people who are neither the parents nor the children. It focuses on two things. First, how people see teaching Korean history to a 6-year-old. Second, what kind of fun and meaning is possible, and where the line is crossed, if the same subjects (the Japanese colonial period and the Korean War) are reinterpreted as a game for general adult players. Device and game-medium questions are asked in the same frame as the parent and child interviews so the answers can be compared later.
+
+### What we want to find out
+
+| # | Question | Where we find out |
+| --- | --- | --- |
+| 1 | How do they see teaching Korean history to a 6-year-old (need, timing, approach)? | Block 2, timing cards |
+| 2 | When painful history is introduced to a child, what is acceptable and what is uncomfortable? | Block 2 |
+| 3 | If the Japanese colonial period and the Korean War were turned into a game for general adults, what fun and meaning would be possible? | Block 3 |
+| 4 | Where would it cross a line? | Block 3 |
+| 5 | Which devices and game media feel natural, and could it expand to adults? | Blocks 4 and 5 |
+
+### Whom to ask
+
+Starting with 2 to 3 people per group is enough. Everyone is 18 or older. They may have children, but people who appeared in the parent interviews are excluded.
+
+| Group | Why we need them | Watch out for |
+| --- | --- | --- |
+| Adults who grew up in Korea (living in Korea or the US) | A view shaped by Korean history education, and a benchmark for what and how to teach a 6-year-old | Korean schooling may become the yardstick and overlook the situation of children abroad |
+| Second-generation Korean Americans (adults) | People who went through the same environment as the nieces, and what helped or burdened them as children | Memories may be romanticized or mixed with present feelings |
+| General adult gamers (need not be Korean; knowledge of Korean history varies) | The game's appeal and clarity, and whether it could expand to adults | Participants for whom the subject is personal, such as people of Japanese descent, join with consent and talk only as far as they are comfortable |
+
+When selecting participants, check only three things: which group they belong to, whether they have experience looking after a child around 6, and how much they play games.
+
+### How to run it
+
+- One person at a time, about 40 to 45 minutes, in person or by video. It can be done before or after the parent interviews, but make sure the parents' answers do not reach the participant.
+- Get consent before recording or taking notes. Tell them in advance that the topic can touch family history or personal experience, and that they may skip any question.
+- Adults tend to give the "right" answer. Say there is no correct answer, and ask about experience and behavior rather than opinions.
+- Do not state the facilitator's own position or judgment, and do not steer toward historical disputes or political arguments.
+
+### Block 1: Warm-up and background (5 minutes)
+
+| Question | Purpose |
+| --- | --- |
+| Where did you grow up, and what is your relationship to Korea? (residence, language, visits) | Confirm the group and background |
+| Do you remember when and how you first learned Korean history? How did it feel? | First memory and feeling |
+| What games or videos do you mainly enjoy these days? | Gaming habits and taste |
+
+### Block 2: Korean history for a 6-year-old (12 minutes)
+
+| Question | Purpose |
+| --- | --- |
+| What do you think about teaching Korean history to a 6-year-old? Is it too early, or necessary? Why? | First reaction on need and timing |
+| Thinking back to when and how you first learned it, how would you want it to go for the children? | Standard drawn from their own experience |
+| Is there a history story from your childhood that stayed with you, or one that frightened or unsettled you? | What lasts from childhood, and risk points |
+| Which stories do you think are fine to start with at age 6? (ondol, giwa, food, holidays, palaces and so on) | Which Korean story to start with (Direction 1) |
+| For painful history such as the Japanese colonial period or the Korean War, at about what age, who, and how would be best? | Timing and manner for painful history (Direction 2) |
+| Should a child growing up abroad meet it differently from a child growing up in Korea? What if they have Japanese friends or friends from other cultures? | Differences in a multicultural setting (Direction 3) |
+| If a child met Korean history through play, is there anything good or worrying about it? Is it okay to treat it as "fun"? | View on treating it as play |
+| Have you seen Korean history books, videos or games for children? What worked and what fell short? | Limits of existing content |
+| (For second-generation Korean Americans) What helped most and what felt burdensome when you were learning Korean identity as a child? | Experience from the same environment as the nieces |
+
+### Card sort: when to introduce each topic (3 minutes, continuing from block 2)
+
+Lay out the same 6 cards and timeline used in the parent interview. Ask "Why that age?" for each card. Compare the placement with the parents' later.
+
+### Block 3: Painful history and a game for adults (12 minutes)
+
+Now shift the view from the 6-year-old to a general adult player. Start by making the scope clear: "if it were a game that adults play". The questions ask for views, not judgments, so skip a question right away if the participant finds it uncomfortable.
+
+| Question | Purpose |
+| --- | --- |
+| Have you seen a film, drama, book or game about the Japanese colonial period or the Korean War? What stayed with you, and why? | What already works and what has failed |
+| If this subject were made into a game, what kind of approach would be meaningful, and what would be uncomfortable? (show the method cards) | Which approaches are accepted |
+| What kind of "fun" in a game could fit this subject? (story, choices, puzzle and collecting, immersive experience, learning) | Types of fun that suit the subject |
+| Is there a point where the word "fun" itself feels wrong? Where is that line? | Position of the line (Direction 2) |
+| What perspective matters in the story? (victims, resistance, ordinary people's daily life, reconciliation and so on) | Viewpoint and tone |
+| If such a game existed, who should play it, and what feeling should it leave at the end? | Audience and the game's goal |
+| If players from other cultural backgrounds, such as Japan, played it, what would worry you and what would you expect? | View on multicultural players (Direction 3) |
+| Would you actually play it? Under what conditions? If a film or a book would be better, why? | The value and limits of the game medium |
+| Could the gentle version for 6-year-olds and an adult version share a world or characters, such as the haetae? Or should they be separate? | Potential for expansion and brand risk |
+
+#### Adult method cards (5 cards to show)
+
+Show them one at a time at question 2 and ask "Which would be most meaningful, and which would be uncomfortable?" Do not show combat- or violence-centered approaches; hear opinions on them only if the participant raises them first.
+
+| Card | Description |
+| --- | --- |
+| A. Story choice | A game where you follow an ordinary person's day in that era and make choices |
+| B. Restoration and collection | A game where you find missing relics or places and restore them one by one (connects to the 6-year-old concept) |
+| C. Puzzle and deduction | A game where you gather records and clues and reason out what happened |
+| D. Immersive experience (VR) | An experience of walking through and looking around places from that era |
+| E. Strategy and simulation | A game that helps you understand that era's choices through decisions and resource management (may be the most controversial, so it is shown to find the line) |
+
+### Block 4: Devices and game media (8 minutes)
+
+Ask in the same frame as parent block 4. Keep the order and wording as close as possible so the answers can be compared with the parents and children.
+
+| Question | Purpose |
+| --- | --- |
+| What game or app do you enjoy most these days? Please tell me the name and why you like it. | What makes it fun |
+| On which device, and how often? | Device and time reality |
+| Alone or with others? | Potential for shared play |
+| Have you tried VR or headset games? How was it? (dizziness, immersion, discomfort) | VR experience and acceptance (Direction 4) |
+| How would you feel if an adult walked through a historical place in VR? | Appeal and burden of adult VR |
+| Could you recommend VR for a 6-year-old? At what age, and with what worries? | An outside view on VR for children (Direction 4) |
+| If not VR, which of tablet, PC, TV or a paper book would feel most natural for a 6-year-old? | Alternative platforms (Direction 4) |
+| Have you seen a pop-up book? Would the fun change if the same story were on a screen? What about mixing paper and digital? | Tactile fun and views on a hybrid format (Direction 4) |
+
+### Block 5: Reaction to the child concept cards (5 minutes, optional)
+
+Show the parent concept cards A, B and C (finding missing pieces, Korean history through objects, pop-up storybook) only after block 4. To tell them apart from the adult method cards, call them "the cards for 6-year-olds".
+
+| Question | Purpose |
+| --- | --- |
+| If you had to pick one for a 6-year-old, which would be best? Why? | Priority from an outside view |
+| Is there anything that worries you at first sight? | Warning signs |
+| Is any of these worth expanding for adults, and who would play it? | Potential for expansion |
+
+### Block 6: Wrap-up (3 minutes)
+
+- Did anything new come to mind while we talked?
+- Is there anything I did not ask that I should have?
+- Is there anyone or any content you think I should look at on this subject?
+
+### Phrasing to avoid and cautions
+
+- Do not steer toward one position because the facilitator is Korean. Instead of "Japan hasn't forgotten it, right?", ask "What view do you have of this subject?"
+- Avoid judging phrasing. Instead of "Wouldn't a game like that be uncomfortable?", ask "Which parts feel comfortable and which feel uncomfortable?"
+- If family history or experiences of harm come up, stop asking questions and make room to listen. Do not ask for more, and say again that they can skip or stop.
+- If an argument over historical facts begins, do not argue about facts; return to the question: "From the game's point of view, how would that be?"
+
+### Recording and comparing
+
+Record one line per participant.
+
+| Item | Participant 1 | Participant 2 | Participant 3 |
+| --- | --- | --- | --- |
+| Group (Korean / second-generation Korean American / general) |  |  |  |
+| Attitude toward teaching a 6-year-old Korean history (for / conditional / against) |  |  |  |
+| Card placement by age (Japanese colonial period, Korean War) |  |  |  |
+| Where the line is for painful history in a game |  |  |  |
+| Adult method cards chosen and avoided |  |  |  |
+| Devices and media they called natural |  |  |  |
+| Attitude toward VR |  |  |  |
+| Concept card A/B/C chosen for the 6-year-old |  |  |  |
+
+When comparing with the parent interviews, look at how different the card placements are, whether the parents are more cautious or more active, and whether the attitudes toward devices and VR match. Where the difference is large, ask why once more, and use the points where the two groups disagree as clues for deciding the concept direction.
+
 ## Observation sheet
 
 Fill in one line per child right after the session. Record what you saw, not your interpretation.
